@@ -1,0 +1,8 @@
+hotkey-encodificador: <alt>+t
+hotkey-encerramento: <ctrl>+<alt>+k
+hotkey-encode-play: <alt>+[
+max_audios_cache: 2
+motor: api
+local_speaker: /local/dos/audios
+pasta_cache: cache_audios
+local_modelo: /local/do/modelo
