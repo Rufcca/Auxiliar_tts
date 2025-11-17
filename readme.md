@@ -21,8 +21,9 @@ Também é necessario fazer o download do projeto no git, pode ser feito direto 
 
 Feito a instalação dos componentes básicos, e também o donwload do projeto, agora é hora de criar um ambiente virtual para empacotar o aplicativo e não gerar nenhum conflito com outras partes do sistema.==(Comando de criação deve ser utilizado no terminal se o SisOp. for Linux, se for Windows executar no PowerShell)==
 
->python -m venv aux_tts
->cd aux_tts
+>`python -m venv aux_tts`
+
+>`cd aux_tts`
 
 ##### Windows
 >`.\Scripts\activate.ps1`
